@@ -1,6 +1,7 @@
 body {
   background-color: black;
   color: white;
+  font-family: 'Kakao';
 }
 
 header a {
@@ -122,7 +123,7 @@ section {
 }
 
 .goal {
-  font-size: 30px;
-  padding-top: 300px;
-  line-height: 2;
+  font-size: 40px;
+  margin-top: 150px;
+  line-height: 4;
 }
